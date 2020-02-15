@@ -26,7 +26,7 @@ Numero del quadrimestre. Va da 1 a 2
 ### Stonks e Not Stonks
 Il valore sarà `stonks` quando il voto sarà maggiore rispetto all'anno/quadrimestre precedente.
 <br>Il valore sarà `not stonks` quando il voto sarà minore rispetto all'anno/quadrimestre precedente.
-<br>Esempio: Se il voto `Chimica` del `1S1Q` è minore del voto della medesima materia nel `2S1Q`, il valore sarà `not stonks`
+<br>Esempio: Se il voto `Chimica` del `1S1Q` è maggiore del voto della medesima materia nel `2S1Q`, il valore sarà `not stonks`
 ### Mega stonks e stinks
 Il valore sarà `Mega stonks` se il numero di `stonks` è maggiore del numero di `not stonks` e `-` (invariato)
 <br>Ciò indica che complessivamente i voti sono aumentati.
